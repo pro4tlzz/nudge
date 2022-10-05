@@ -171,7 +171,7 @@
               <key>mainContentNote</key>
               <string>Important Notes</string>
               <key>mainContentSubHeader</key>
-              <string>Updates can take around 30 minutes to complete</string>
+              <string>Updates can take around 15 minutes to complete</string>
               <key>mainContentText</key>
               <string>A fully up-to-date device is required to ensure that IT can accurately protect your device.
 
@@ -203,7 +203,7 @@ To begin the update, simply click on the Update Device button and follow the pro
               <key>mainContentNote</key>
               <string>Notas importantes</string>
               <key>mainContentSubHeader</key>
-              <string>Las actualizaciones pueden tardar unos 30 minutos en completarse</string>
+              <string>Las actualizaciones pueden tardar unos 15 minutos en completarse</string>
               <key>mainContentText</key>
               <string>Se requiere un dispositivo completamente actualizado para garantizar que IT pueda proteger su dispositivo con precisión.
 
@@ -231,7 +231,7 @@ Para comenzar la actualización, simplemente haga clic en el botón Actualizar d
               <key>mainContentNote</key>
               <string>Notes Importantes</string>
               <key>mainContentSubHeader</key>
-              <string>Les mises à jour peuvent prendre environ 30 minutes.</string>
+              <string>Les mises à jour peuvent prendre environ 15 minutes.</string>
               <key>mainContentText</key>
               <string>Un appareil entièrement à jour est nécessaire pour garantir que le service informatique puisse protéger votre appareil efficacement.
 
@@ -259,7 +259,7 @@ Pour commencer la mise à jour, cliquez simplement sur le bouton Mettre à jour 
               <key>mainContentNote</key>
               <string>Wichtige Hinweise</string>
               <key>mainContentSubHeader</key>
-              <string>Aktualisierungen können ca. 30 Minuten dauern.</string>
+              <string>Aktualisierungen können ca. 15 Minuten dauern.</string>
               <key>mainContentText</key>
               <string>Ein vollständig aktualisiertes Gerät ist erforderlich, um sicherzustellen, dass die IT-Abteilung Ihr Gerät effektiv schützen kann.
 Wenn Sie Ihr Gerät nicht aktualisieren, verlieren Sie möglicherweise den Zugriff auf einige Werkzeuge, die Sie für Ihre täglichen Aufgaben benötigen.

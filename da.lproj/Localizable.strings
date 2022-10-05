@@ -43,7 +43,7 @@
 "Update Device" = "Opdater Mac";
 "Your device will restart during this update" = "Din Mac vil genstarte under opdateringen";
 "Important Notes" = "Vigtig information";
-"Updates can take around 30 minutes to complete" = "Opdateringer kan tage op til 30 minutter at gennemføre.";
+"Updates can take around 15 minutes to complete" = "Opdateringer kan tage op til 15 minutter at gennemføre.";
 "A fully up-to-date device is required to ensure that IT can accurately protect your device.\n\nIf you do not update your device, you may lose access to some items necessary for your day-to-day tasks.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps." = "En fuldt opdateret Mac er påkrævet for at IT afdelingen kan beskytte dine data.\n\nHvis du ikke opdaterer din Mac, kan du risikere at miste adgang til muligheder, som er nødvendige i dagligdagen.\n\nFor at påbegynde opdateringen skal du klikke på \"Opdater Mac\"-knappen og følge instruktionerne på skærmen.";
 "Your device requires a security update" = "Din Mac mangler en sikkerhedsopdatering";
 "Your device requires a security update (Demo Mode)" = "Din Mac mangler en sikkerhedsopdatering (Demo tilstand)";
